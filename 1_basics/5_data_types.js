@@ -154,3 +154,9 @@ console.log(isArray[3]);
 isArray[0] = '초록색';
 console.log(isArray);
 console.log(typeof isArray);
+
+/**
+ * static typign -> 변수를 선언할 때, 변수 타입을 명시 
+ * dynamic typing -> 변수 타입을 명시적으로 선언 하지 않고, 타입을 추론함
+ * -> js가 해당
+ */
