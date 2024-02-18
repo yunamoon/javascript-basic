@@ -133,3 +133,4 @@ console.log(numbers.findIndex((x)=> x % 2 === 0));
 // reduce()
 // reduce( 콜백함수 , 초기값)
 console.log(numbers.reduce((p , n) => p+n , 0));
+console.log(colors.reduce((p , n) => p + n.length , 0));
