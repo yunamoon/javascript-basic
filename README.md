@@ -1,13 +1,13 @@
 
 
 <div align="center">
-  <h3 align="center">YUNA Portfolio</h3>
+  <h3 align="center">JavaScript Article</h3>
 
   <p align="center">
     자바스크립트 아티클
     <br />
     <br />
-    <a href="https://yunamoon.gitbook.io/js/">Blog</a>
+    <a href="https://yunamoon.gitbook.io/js/">Article</a>
   </p>
 </div>
 
