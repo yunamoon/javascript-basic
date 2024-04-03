@@ -1,3 +1,6 @@
 
 import {sum} from "./sum.js";
-console.log(sum(1,2));
+import randomColor from "randomcolor";
+
+const color = randomColor();
+console.log(sum(color));
